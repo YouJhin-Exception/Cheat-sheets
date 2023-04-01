@@ -1,3 +1,5 @@
+![](https://somaliprogrammers.com/wp-content/uploads/2021/12/gitSomaliProgrammers.jpg)
+
 # Список основных команд Git
 
 1. ## *Как задать имя пользователя и адрес электронной почты*
